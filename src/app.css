@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: "Inter", sans-serif;
+    height: 100vh;  
+    background: url("https://static.vecteezy.com/system/resources/previews/025/389/792/original/citylight-background-generated-by-ai-free-photo.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+
+}
